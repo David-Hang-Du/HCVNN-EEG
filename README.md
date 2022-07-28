@@ -5,6 +5,8 @@ with Applications to Electroencephalogram (EEG)".
 
 Our python code is refer to this repository "https://github.com/dreamgonfly/cnn-from-scratch".
 
+You also need to download "fuzzyen.m" and 'sampen.m'.
+
 For the "fuzzyen.m", please refer to:
 
        [1] Chen W, Zhuang J, Yu W, Wang Z. "Measuring complexity using FuzzyEn, ApEn, and SampEn", Med Eng Phys 31: 61-68. 2009.
