@@ -1,4 +1,4 @@
-# CVNN EEG
+# HCVNN EEG
 
 This repository contains the codes to reproduce the result in our paper "A Hybrid Complex-valued Neural Network Framework
 with Applications to Electroencephalogram (EEG)".
